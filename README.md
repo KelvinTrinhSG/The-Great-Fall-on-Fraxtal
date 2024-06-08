@@ -67,11 +67,13 @@ Create an exchange for NFTs and game items
 
 https://fraxscan.com/address/0xf24cdd7513e2a7697eb5f7e1af7acea52b015f46
 
+
 **ERC721 Token Gate**
 
 0x6A00927433a31cd0e8f27FfF3f3bD2020Bd4409E
 
 https://fraxscan.com/address/0x6a00927433a31cd0e8f27fff3f3bd2020bd4409e
+
 
 **ERC20 Level Saving**
 
@@ -79,11 +81,13 @@ https://fraxscan.com/address/0x6a00927433a31cd0e8f27fff3f3bd2020bd4409e
 
 https://fraxscan.com/address/0xf9aadc693031246b3cd8118eefd16dc82df5906a
 
+
 **ERC20 Gold Claiming**
 
 0xaCe4Cb0f6b7d5cD2589C67a98c399bc73a93F99a
 
 https://fraxscan.com/address/0xace4cb0f6b7d5cd2589c67a98c399bc73a93f99a
+
 
 **ERC20 Gem Claiming**
 
