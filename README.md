@@ -1,6 +1,6 @@
 ## How to use this Repo:
 
-1. CLone this Repo.
+1. Clone this Repo.
 
 2. Use Unity Hub to open this.
 
