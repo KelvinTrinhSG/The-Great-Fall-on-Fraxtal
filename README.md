@@ -68,6 +68,7 @@ Create an exchange for NFTs and game items
 https://fraxscan.com/address/0xf24cdd7513e2a7697eb5f7e1af7acea52b015f46
 
 **ERC721 Token Gate**
+
 0x6A00927433a31cd0e8f27FfF3f3bD2020Bd4409E
 
 https://fraxscan.com/address/0x6a00927433a31cd0e8f27fff3f3bd2020bd4409e
