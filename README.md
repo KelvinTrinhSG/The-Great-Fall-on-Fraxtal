@@ -2,9 +2,7 @@
 
 The Great Fall Game uses Account Abstraction (Smart Wallet) on Fraxtal Mainnet to make Immersive and seamless Game experience without players seeing any on-chain activity. It's all handled behind the scenes.
 
-## Description
-
-**Key Features**
+## Key Features
 
 **INVISIBLE WALLET (Smart Wallet)**
 
