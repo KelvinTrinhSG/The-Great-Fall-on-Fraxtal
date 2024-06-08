@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: e074ae3141859ef4ab52d917314b5c48
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cloud
+    100002: cloud_1
+    100004: cloud_2
+    100006: //RootNode
+    100008: Platonic
+    100010: Platonic_1
+    100012: Platonic_1_2
+    100014: Platonic_1_3
+    100016: Platonic_2
+    100018: Platonic_2_2
+    100020: Platonic_2_3
+    100022: Platonic_2_4
+    100024: Platonic_3
+    100026: Platonic_3_2
+    100028: Platonic_3_3
+    100030: Platonic_3_4
+    100032: Platonic_4
+    100034: Platonic_4_2
+    100036: Platonic_4_3
+    100038: Platonic_5
+    100040: Platonic_5_2
+    100042: Platonic_5_3
+    100044: Platonic_6
+    100046: Platonic_7
+    100048: Platonic_8
+    100050: Platonic_9
+    400000: cloud
+    400002: cloud_1
+    400004: cloud_2
+    400006: //RootNode
+    400008: Platonic
+    400010: Platonic_1
+    400012: Platonic_1_2
+    400014: Platonic_1_3
+    400016: Platonic_2
+    400018: Platonic_2_2
+    400020: Platonic_2_3
+    400022: Platonic_2_4
+    400024: Platonic_3
+    400026: Platonic_3_2
+    400028: Platonic_3_3
+    400030: Platonic_3_4
+    400032: Platonic_4
+    400034: Platonic_4_2
+    400036: Platonic_4_3
+    400038: Platonic_5
+    400040: Platonic_5_2
+    400042: Platonic_5_3
+    400044: Platonic_6
+    400046: Platonic_7
+    400048: Platonic_8
+    400050: Platonic_9
+    2100000: Mat.3
+    2300000: Platonic
+    2300002: Platonic_1
+    2300004: Platonic_1_2
+    2300006: Platonic_1_3
+    2300008: Platonic_2
+    2300010: Platonic_2_2
+    2300012: Platonic_2_3
+    2300014: Platonic_2_4
+    2300016: Platonic_3
+    2300018: Platonic_3_2
+    2300020: Platonic_3_3
+    2300022: Platonic_3_4
+    2300024: Platonic_4
+    2300026: Platonic_4_2
+    2300028: Platonic_4_3
+    2300030: Platonic_5
+    2300032: Platonic_5_2
+    2300034: Platonic_5_3
+    2300036: Platonic_6
+    2300038: Platonic_7
+    2300040: Platonic_8
+    2300042: Platonic_9
+    3300000: Platonic
+    3300002: Platonic_1
+    3300004: Platonic_1_2
+    3300006: Platonic_1_3
+    3300008: Platonic_2
+    3300010: Platonic_2_2
+    3300012: Platonic_2_3
+    3300014: Platonic_2_4
+    3300016: Platonic_3
+    3300018: Platonic_3_2
+    3300020: Platonic_3_3
+    3300022: Platonic_3_4
+    3300024: Platonic_4
+    3300026: Platonic_4_2
+    3300028: Platonic_4_3
+    3300030: Platonic_5
+    3300032: Platonic_5_2
+    3300034: Platonic_5_3
+    3300036: Platonic_6
+    3300038: Platonic_7
+    3300040: Platonic_8
+    3300042: Platonic_9
+    4300000: Platonic_5
+    4300002: Platonic_4
+    4300004: Platonic_3
+    4300006: Platonic_2
+    4300008: Platonic_1
+    4300010: Platonic
+    4300012: Platonic_6
+    4300014: Platonic_7
+    4300016: Platonic_8
+    4300018: Platonic_9
+    4300020: Platonic_5_2
+    4300022: Platonic_4_2
+    4300024: Platonic_3_2
+    4300026: Platonic_2_2
+    4300028: Platonic_1_2
+    4300030: Platonic_2_3
+    4300032: Platonic_5_3
+    4300034: Platonic_4_3
+    4300036: Platonic_3_3
+    4300038: Platonic_2_4
+    4300040: Platonic_1_3
+    4300042: Platonic_3_4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
