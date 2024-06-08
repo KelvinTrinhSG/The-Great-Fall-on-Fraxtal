@@ -1,3 +1,11 @@
+## How to use this Repo:
+
+1. CLone this Repo.
+
+2. Use Unity Hub to open this.
+
+3. Use Visual Studio to open the CODE
+
 ## Vision
 
 The Great Fall Game uses Account Abstraction (Smart Wallet) on Fraxtal Mainnet to make Immersive and seamless Game experience without players seeing any on-chain activity. It's all handled behind the scenes.
