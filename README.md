@@ -19,21 +19,21 @@ Take care of the blockchain gas cost for your users to provide a seamless experi
 3. Save & Load Game Progress without spending Gas and without interacting with the wallet.
 
 ## Inspiration
-Account Abstraction & Smart Wallet on Fraxtal: Vitalik Buterin sees the account abstraction as a catalyst that can attract a billion users to the Ethereum network. Smart wallets can transform our interactions with blockchain technology, offering an impressively seamless and 'invisible' wallet experience. Although there are hurdles yet to be surmounted, account abstraction efforts are already playing a pivotal role in accelerating the adoption of Web3 by providing a more integrated and user-friendly blockchain ecosystem.
+**Account Abstraction & Smart Wallet on Fraxtal:** Vitalik Buterin sees the account abstraction as a catalyst that can attract a billion users to the Ethereum network. Smart wallets can transform our interactions with blockchain technology, offering an impressively seamless and 'invisible' wallet experience. Although there are hurdles yet to be surmounted, account abstraction efforts are already playing a pivotal role in accelerating the adoption of Web3 by providing a more integrated and user-friendly blockchain ecosystem.
 
 ## What it does
-Account Abstraction & Smart Wallet on Fraxtal: The incorporation of account abstraction in The Great Fall Game has the potential to propel Web3 gaming to new heights. With simplified user experiences, games can attract a broader audience, transcending the boundaries of crypto enthusiasts. By removing the knowledge and technical barriers, game developers can scale their applications to reach millions of users worldwide. This expansion can lead to increased engagement, participation, and the establishment of vibrant gaming communities within the Web3 ecosystem. By eliminating the need for users to possess extensive crypto knowledge, the technology opens doors to widespread adoption and user engagement. As the world of gamification continues to evolve, account abstraction plays a crucial role in bridging the gap between blockchain technology and mainstream gaming. Embracing this innovation paves the way for a future of Blockchain.
+**Account Abstraction & Smart Wallet on Fraxtal:** The incorporation of account abstraction in The Great Fall Game has the potential to propel Web3 gaming to new heights. With simplified user experiences, games can attract a broader audience, transcending the boundaries of crypto enthusiasts. By removing the knowledge and technical barriers, game developers can scale their applications to reach millions of users worldwide. This expansion can lead to increased engagement, participation, and the establishment of vibrant gaming communities within the Web3 ecosystem. By eliminating the need for users to possess extensive crypto knowledge, the technology opens doors to widespread adoption and user engagement. As the world of gamification continues to evolve, account abstraction plays a crucial role in bridging the gap between blockchain technology and mainstream gaming. Embracing this innovation paves the way for a future of Blockchain.
 
 ## What problem we try to solve?
 **Account Abstraction & Smart Wallet on Fraxtal:** Crypto wallets are a user's gateway to the world of blockchains — but the user experience for non-custodial wallets is pretty complex, and it poses one of the greatest obstacles to the mass adoption of web3. For a new user to interact with the blockchain, they must: not only create a wallet, but store their private keys and seed phrases securely, purchase native tokens to transfer value, pay gas, and sign every single action that they take on a dApp. With such an intimidating user experience, something must change! So these design limitations present many challenges:
 
-Poor security: An EOA’s entire security is linked to one seed phrase. If you lose your private key and seed phrase, you may lose all your assets. And there are no social recovery options. Besides, you can’t set spend limits, 2FAs, etc. for security.
+1. Poor security: An EOA’s entire security is linked to one seed phrase. If you lose your private key and seed phrase, you may lose all your assets. And there are no social recovery options. Besides, you can’t set spend limits, 2FAs, etc. for security.
 
-Lack of customization: Transactions from EOAs cannot be customized or automated. Owners must manually sign every transaction.
+2. Lack of customization: Transactions from EOAs cannot be customized or automated. Owners must manually sign every transaction.
 
-Gas payment: EOA owners must own ETH at all times to pay gas for transactions. They can not use any other token.
+3. Gas payment: EOA owners must own ETH at all times to pay gas for transactions. They can not use any other token.
 
-Poor overall UX: All of the above make for a poor user experience which is not suited for most new users.
+4. Poor overall UX: All of the above make for a poor user experience which is not suited for most new users.
 
 ## Our Vision
 Account Abstraction & Smart Wallet on Fraxtal: When it comes to gaming, players want immersive experiences without any technical interruptions. They want to focus on playing the game, not on complicated wallet configurations or multiple transaction authorizations. This is where Account Abstraction comes in, and here's why:
